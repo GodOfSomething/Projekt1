@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "author": "Jan",
+    "comment": "Świetny projekt!",
+    "date": "2024-02-06"
+  },
+  {
+    "id": 2,
+    "author": "Anna",
+    "comment": "Podoba mi się!",
+    "date": "2024-02-06"
+  },
+  {
+    "author": "Olek Senko",
+    "comment": "Jestem grubym prosiakiem z rotmanki (tak z rotmanki z małej bo to jebana wiocha)",
+    "id": 3,
+    "date": "2025-02-06"
+  }
+]
